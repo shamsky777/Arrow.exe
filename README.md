@@ -10,10 +10,18 @@
 
 ## Installation
 
-1. Download the `arrow.rar` file from the [releases page](https://github.com/shamsky777/Arrow.exe/releases/download/untagged-7b8346a93ef7073e62ec/arrow.rar).
-2. Extract the `arrow.exe` from the downloaded `arrow.rar` file.
-3. Place `arrow.exe` in a convenient location on your computer.
-
+1. **Install AutoHotkey**: 
+   - If you don't have AutoHotkey installed on your system, you'll need to install it first. You can download it from [autohotkey.com](https://www.autohotkey.com/).
+   - Follow the installation instructions provided on the website.
+   
+2. **Download the `arrow.rar` file**: 
+   - Download the `arrow.rar` file from the [releases page](https://github.com/shamsky777/Arrow.exe/releases/download/untagged-7b8346a93ef7073e62ec/arrow.rar).
+   
+3. **Extract `arrow.exe`**: 
+   - Extract the `arrow.exe` from the downloaded `arrow.rar` file.
+   
+4. **Place `arrow.exe` in a convenient location**: 
+   - Choose a location on your computer where you want to keep `arrow.exe`.
 
 ## Usage
 
